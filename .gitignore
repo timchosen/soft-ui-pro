@@ -1,0 +1,60 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Android
+android/
+/build/
+
+# iOS
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/Podfile.podspec
+ios/Pods.xcodeproj/
+ios/*.xcworkspace/
+
+# Logs and debugging
+*.log
+*.log.*
+__debugger/
+[Dd]ebugging-[Ll]og.txt
+
+# Android Studio
+/.idea/
+/.gradle/
+local.properties
+
+# Visual Studio Code
+.vscode/
+
+# IDE files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# macOS and Linux file system's cache
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# npm
+npm-debug.log
+
+# Yarn
+yarn-error.log
+
+# Expo
+.expo/
+.expo-shared/
+.build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Jest
+/__tests__/
